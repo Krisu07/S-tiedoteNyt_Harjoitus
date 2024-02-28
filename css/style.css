@@ -13,11 +13,13 @@ div{
 }
 h3{
      color: #333;
+     font-size: xx-large;
      margin-bottom: 42px;
      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 p{
      color: #02172a;
+     font-size: 35px;
 }
 .image-wrapper{
      text-align: center;
